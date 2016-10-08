@@ -1,0 +1,11 @@
+main: poll.Main
+version: 0.5
+name: SupahSayian
+
+commands:
+  ss:
+    description: WAAHHHHHH!
+  setdooper:
+    description: dooper
+  removedooper:
+    description: fooper
